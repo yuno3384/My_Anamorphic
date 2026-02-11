@@ -1,0 +1,20 @@
+[
+  {
+    "MountId": "56e62dd7-241f-41e9-8c6b-dd4ca4513e62",
+    "AncestorCsetIds": [
+      12
+    ],
+    "SourceCsetId": 13,
+    "DestinationCsetId": 12,
+    "FileConflicts": [
+      {
+        "Path": "/Assets/Resources/uploads_files_3749277_Audi+A7+sportback+2018.fbx.meta",
+        "ItemId": 453,
+        "ParentItemId": 420,
+        "BaseRevId": 479,
+        "SourceRevId": 486,
+        "DestinationRevId": 479
+      }
+    ]
+  }
+]
